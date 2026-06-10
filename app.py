@@ -58,7 +58,7 @@ st.markdown("""
 
 
 # ── Header ────────────────────────────────────────────────────────────────────
-st.markdown("# 📄 Resume Feedback Assistant")
+st.markdown("# 📄 Resume Feedback Analyzer")
 st.markdown("Upload your resume and paste a job description for ATS-style analysis and AI-powered feedback.")
 st.markdown("---")
 
