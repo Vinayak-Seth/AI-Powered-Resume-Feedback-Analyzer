@@ -10,7 +10,7 @@ from feedback_generator import generate_overall_feedback, generate_section_feedb
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Resume Feedback Assistant",
+    page_title="Resume Feedback Analyzer",
     page_icon="📄",
     layout="wide",
 )
