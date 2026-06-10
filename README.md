@@ -1,4 +1,4 @@
-# 📄 AI-Powered Resume Feedback Assistant
+# 📄 AI-Powered Resume Feedback Analyzer
 
 An intelligent resume evaluation system that analyses resumes against job descriptions using NLP, semantic similarity, and AI-generated feedback — deployed as an interactive web app.
 
